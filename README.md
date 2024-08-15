@@ -27,7 +27,7 @@ I'm a BCA student at GLA University, passionate about coding, data science, and 
   GLA University, Mathura (Expected Graduation: 2025)
 - **Intermediate**  
   St. Paul's School, Mathura (Completed :2022)
-- **Highschool **  
+- **Highschool**  
   St. Paul's School, Mathura (Completed :2020)
 
 
