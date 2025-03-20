@@ -5,10 +5,10 @@ I'm a BCA student at GLA University, passionate about coding, data science, and 
 
 
 ### 🛠️ Skills & Technologies
-- **Languages:** Java, Python, SQL, JavaScript
+- **Languages:** Java, SQL ,Python , JavaScript
 - **Web Development:** HTML, CSS, React
-- **Data Bases:** SQL
-- **Tools:** Git, VS Code, Jupyter Notebook
+- **Data Bases:** My SQL
+- **Tools:** Git, VS Code, Jupyter Notebook ,Cursor AI
 
 
 
