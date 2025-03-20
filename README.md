@@ -24,7 +24,7 @@ I'm a BCA student at GLA University, passionate about coding, data science, and 
 
 ### 🎓 Education
 - **Bachelor of Computer Applications**  
-  GLA University, Mathura (Expected Graduation: 2025)
+  GLA University, Mathura ( Completed: 2025)
 - **Intermediate**  
   St. Paul's School, Mathura (Completed :2022)
 - **Highschool**  
